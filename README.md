@@ -1,2 +1,2 @@
 # Titanic logistic regression and decision tree approach
- titanic dataset by logistic regression approach
+ Titanic logistic regression and decision tree approach using sql server
