@@ -1,2 +1,2 @@
-# Titanic_logistic_regression
+# Titanic logistic regression and decision tree approach
  titanic dataset by logistic regression approach
