@@ -1,2 +1,2 @@
-# Titanic logistic regression and decision tree approach
- Titanic logistic regression and decision tree approach using sql server
+# Titanic logistic regression, Decision tree, SVM approach
+ Titanic logistic regression, Decision tree, SVM approach using sql server and comparing the rults at the end
